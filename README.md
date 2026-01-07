@@ -29,8 +29,6 @@ As an undergraduate research assistant, I worked with this codebase to:
 - Troubleshoot simulation issues, IRF handling, and Poisson noise modeling.
 - Produce and save publication-style figures and evaluation metrics.
 
-Personal Project Paper: https://docs.google.com/document/d/1K4TCTx5SEFsOnoJtxHdUowHxKbZyCuyAT6mSE6QsMHI/edit?usp=sharing
-
 This repository documents my modified version of the research code, including compatibility updates and scripts used for running simulations, generating figures, and exploring coding trade-offs.
 
 If you use this code, or derivative versions of it, please cite the original CVPR 2022 paper above.
